@@ -1,4 +1,8 @@
 
+-- Tank Battle V1.0 by Jason Williams
+-- written for CS50 Introduction to CS 
+-- April 2024
+
 Class = require 'class'
 require 'Tank'
 require 'Missile'

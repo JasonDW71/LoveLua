@@ -1,5 +1,5 @@
 function love.conf(t)
-    t.title = "Tank"
+    t.title = "Tank Battle"
     t.version = "11.5"
     t.console = true
     t.window.width = 1280
